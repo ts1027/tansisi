@@ -110,8 +110,8 @@ html,body,div,h1,h2,h3,h4,h5,h6,p,a,span,i,em,ul,li,ol{
 }
 .myhead{
     position: relative;
-    margin-top: 120px;
-    margin-left: 42%;
+    /*margin-top: 120px;*/
+    margin-left: 32%;
     animation:left 2s cubic-bezier(0, 0.48, 0.07, 0.96);
 }
 @keyframes left{
